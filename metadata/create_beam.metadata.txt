@@ -1,4 +1,4 @@
-Create Beam,1
+Create Beam,2
 True
 SolarCormorant
 C:
